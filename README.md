@@ -1,0 +1,1 @@
+# Skrypt do kodów Minecraft
